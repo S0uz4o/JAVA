@@ -168,9 +168,6 @@ Funções são blocos de código reutilizáveis que realizam tarefas específica
 Funções são essenciais para a organização e reutilização do código em JavaScript.
 ----------------
 ------------------
------------------
-------------------
------------
 # Como JavaScript interage com HTML e CSS:
 
 ### **Interação com HTML**
@@ -228,16 +225,7 @@ Funções são essenciais para a organização e reutilização do código em Ja
 JavaScript permite criar páginas web dinâmicas e interativas ao manipular HTML e CSS diretamente.
 -------------------------
 ----------------------------
------------------------------
-----------------------------------
 
----------
---------------
------------
-----------
-----------------------
---------------
-----------------------------------
 # Dom e sua relação com JavaScript
 
 - O DOM (Document Object Model) é uma interface de programação para documentos HTML e XML. Ele representa a estrutura de um documento web como uma árvore de objetos, onde cada nó é um objeto que pode ser manipulado com JavaScript.
@@ -247,10 +235,7 @@ JavaScript interage com o DOM para criar, alterar e remover elementos HTML e seu
 
 ---------------------------
 -----------------------------
-------------------------------
---------------------------------
---------------------------------
-----------------------------------
+
 
 # Ferramentas e Ambiente de Desenvolvimento:
 
